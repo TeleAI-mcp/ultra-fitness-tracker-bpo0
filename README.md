@@ -1,2 +1,3 @@
-# ultra-fitness-tracker-bpo0
+# Ultra Fitness Tracker Bpo0
+
 A fitness and workout tracker for modern development workflows.
